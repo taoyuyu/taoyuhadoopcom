@@ -1,1 +1,15 @@
-.idea/*.xml
+.project
+.classpath
+.wtpmodules
+.settings
+.svn/
+.project
+.settings/
+target/
+**/dependency-reduced-pom.xml
+pom.xml.next
+pom.xml.releaseBackup
+pom.xml.tag
+release.properties
+.idea/
+*.iml
